@@ -1,0 +1,36 @@
+header
+{
+	background-color: #AB7171;
+	color: white;
+	text-align: center;
+}
+
+h1
+{
+	font-family: 'Source Serif Pro', serif;
+}
+
+a
+{
+	background-color: black;
+	text-decoration: none;
+	color: white;
+
+}
+
+h1
+{
+	background-color: red;
+}
+
+nav
+{
+	background-color: black;
+}
+
+main
+{
+	text-align: center;
+	font-family: 'Source Serif Pro', serif;
+}
+
